@@ -28,9 +28,10 @@ This repository contains complete solutions for the PlatinumRx Data Analyst assi
 3. All queries are tested and working
 
 ### Spreadsheet
-1. Open `Ticket_Analysis.xlsx`
-2. Check formulas in 'feedbacks' sheet
-3. View analysis in separate sheet
+1. Run the cmd `cd Spreadsheets` 
+2. Open `Ticket_Analysis.xlsx`
+3. Check formulas in 'feedbacks' sheet
+4. View analysis in separate sheet
 
 ### Python Scripts
 1. Run the cmd `cd Python`
